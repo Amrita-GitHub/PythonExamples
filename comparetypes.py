@@ -1,0 +1,1 @@
+type("hello")==type("world")

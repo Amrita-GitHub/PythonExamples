@@ -1,0 +1,5 @@
+10 20 30 
+Amrita
+Saxena
+{'name': 'dinesh', 'age': 45}
+['a', 'e', 'i', 'o', 'u']
